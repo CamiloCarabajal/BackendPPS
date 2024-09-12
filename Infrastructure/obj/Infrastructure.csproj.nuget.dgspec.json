@@ -1,40 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Application\\Application.csproj": {
+    "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\fliac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Application\\obj\\",
+        "projectPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fliac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj"
+              "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Domain\\Domain.csproj"
               }
             }
           }
@@ -43,16 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -69,38 +64,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj": {
+    "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\fliac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Domain\\obj\\",
+        "projectPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fliac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -108,16 +103,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -134,41 +124,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\fliac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fliac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Backend\\Application\\Application.csproj"
+              "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Application\\Application.csproj": {
+                "projectPath": "C:\\Luisina TUP\\Metodologia\\prueba\\BackendPPS\\Application\\Application.csproj"
               }
             }
           }
@@ -177,16 +167,23 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -203,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,11 @@
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\bin\Debug\net7.0\Domain.dll
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\Domain.dll
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Luisina TUP\Metodologia\prueba\BackendPPS\Domain\obj\Debug\net7.0\ref\Domain.dll
